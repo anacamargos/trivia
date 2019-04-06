@@ -53,7 +53,4 @@ class GameViewController: UIViewController {
         questionLabel.text = nextQuestion
         pointLabel.text = "\(game.point)"
     }
-    
-    
-    
 }
